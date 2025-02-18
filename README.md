@@ -1,4 +1,4 @@
-# Maro Bros
+# Mario Bros
 
 Maro Bros é um jogo desenvolvido na engine **Godot** para a disciplina **Experimentação de Protótipos** da faculdade. Inspirado em clássicos dos jogos de plataforma, este projeto tem como objetivo explorar conceitos de design e desenvolvimento de jogos, colocando à prova habilidades criativas e técnicas.
 
